@@ -1,2 +1,2 @@
 # vignette-linearregression-ts
-Time Series Linear Regression vignette for PSTAT 197A
+Vignette on Linear Regression with Time Series for PSTAT 197A in Fall 2025
