@@ -18,7 +18,10 @@ Most notably, the file `train.csv` contains the main training data. Important at
 
 In our practice of applying linear regression to time series data, we construct a simple linear regression model fitted using the Ordinary Least Squares (OLS) method. The response variable — daily average sales — is obtained by loading the original dataset and aggregating each individual sale into a single average value for each date. To build the model, we treat time as the main explanatory factor, and the independent variable is represented by a time index that increases sequentially across the observation period. This setup allows us to capture the overall trend in sales over time and provides a straightforward starting point before incorporating more complex time-series features. 
 
+# Instructions
+To use our script, you can navigate to the vignette.ipynb file and run it locally. You may also navigate to the drafts folder and explore the vignette-script.py file, which contains preliminary data preprocessing and model training.
 
+To contribute to the repository, please edit the vignette.ipynb file appropriately. 
 
 # Repository Contents
 📂 Repository  
